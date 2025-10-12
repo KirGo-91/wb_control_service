@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Переход в директорию проекта
-cd /root/marketplace_data_service || exit
+cd /root/wb_control_service || exit
 
 # Добавление всех изменений
 git add .
@@ -10,4 +10,4 @@ git add .
 git commit -m "autocommit $(date '+%Y-%m-%d %H:%M')" || exit
 
 # Отправка изменений в удалённый репозиторий
-git push origin master
+git push https://$GITHUB_TOKEN@github.com/KirGo-91/wb_control_service.git
