@@ -2,4 +2,4 @@ venv/
 __pycache__/
 _logs/autocommit.log
 _logs/gitpull.log
-_logs/crone.log
+_logs/cron.log
