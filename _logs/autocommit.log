@@ -23,3 +23,7 @@ fatal: Authentication failed for 'https://github.com/KirGo-91/wb_control_service
  1 file changed, 4 insertions(+)
 [master 825a492] autocommit 2025-10-13 12:38
  1 file changed, 4 insertions(+)
+[master c669f3a] autocommit 2025-10-13 12:41
+ 1 file changed, 4 insertions(+)
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/KirGo-91/wb_control_service.git/'

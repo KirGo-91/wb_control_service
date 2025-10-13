@@ -21,3 +21,5 @@ From https://github.com/KirGo-91/wb_control_service
  * branch            master     -> FETCH_HEAD
 error: cannot rebase: You have unstaged changes.
 error: Please commit or stash them.
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
