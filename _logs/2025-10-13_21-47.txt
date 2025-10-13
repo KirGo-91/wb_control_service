@@ -1,3 +1,0 @@
-2025-10-13 21:47:58,805 INFO [App]: Запуск работы «wb_control_service»
-2025-10-13 21:47:58,808 INFO [DBClient]: Таблица positions уже существует
-2025-10-13 21:47:58,808 INFO [ApiClient]: Запрос геоданных с API WB
